@@ -1,4 +1,5 @@
 class
 {
-    hello world:    
+    hello Git hub
+    Hello vijay singh
 }
